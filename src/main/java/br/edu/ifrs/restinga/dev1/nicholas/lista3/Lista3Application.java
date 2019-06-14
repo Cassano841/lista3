@@ -1,4 +1,4 @@
-package br.edu.ifrs.restinga.dev1.nicholas.lista3.lista3;
+package br.edu.ifrs.restinga.dev1.nicholas.lista3;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

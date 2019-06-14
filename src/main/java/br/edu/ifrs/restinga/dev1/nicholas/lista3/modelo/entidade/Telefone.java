@@ -1,4 +1,4 @@
-package br.edu.ifrs.restinga.dev1.nicholas.lista3.lista3.modelo.entidade;
+package br.edu.ifrs.restinga.dev1.nicholas.lista3.modelo.entidade;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

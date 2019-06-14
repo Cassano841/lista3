@@ -1,4 +1,4 @@
-package br.edu.ifrs.restinga.dev1.nicholas.lista3.lista3.erros;
+package br.edu.ifrs.restinga.dev1.nicholas.lista3.erros;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
